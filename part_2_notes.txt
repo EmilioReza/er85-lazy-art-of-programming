@@ -1,0 +1,16 @@
+UNIX system is made up of 3 layers:
+Kernel - Controls resources of the machine
+Shell - Interface between users and the kernel, interprets commands
+Utilities - Useful programs, like editors and compilers
+
+UNIX system programs are the building blocks to create things.
+UNIX is unique in that you can combine the blocks in many ways to do many different things.
+
+A fundamental concept is "pipelining", which lets multiple programs be chained together so that data flows from one program to the next.
+
+UNIX has a lot of key features that make programming easier, including format-less files, hierarchical directory structure, ability to pipeline commands, and device-independent I/O.
+
+A file in UNIX is just a sequence of bytes. Its main attribute is its size, but there is not a lot of extra attributes to store (unlike other systems). UNIX organizes files into a hierarchy of directories, which allows users to navigate/group information easier. Note I/O devices are also treated as files.
+
+The shell interprets commands and executes files in the file system. The ability to put commands into files and execute them simplifies repetitive tasks. The shell also handles redirection of a program's output, letting us send or receive data to/from files.
+
