@@ -1,0 +1,11 @@
+Differences between my Git Bash terminal and a CLEAR session:
+
+Bash:
+Prompt is emili@Emilio_Laptop <directory>\n$
+Prompt and ls (default) has color
+Minimal install, does not include commands like man
+
+CLEAR:
+Prompt is [er85@<system> <directory>]$ where the system name varies when connecting at different times
+Prompt and ls (default) has no color
+Initial connection has a lot of text in the terminal
