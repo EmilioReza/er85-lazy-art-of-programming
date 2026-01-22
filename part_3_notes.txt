@@ -1,0 +1,12 @@
+The term "Computer Science" is a fake grouping that encompasses a lot of disparate fields
+- Mathematicians disguised as computer scientists to get grant money
+- Theorists studying the natural history of computers
+- Hackers/Makers who use the computer as a medium for expression
+
+I completely agree with figuring out the program while you write it instead of attempting to design it all at the beginning away from the computer.
+
+Scientific fields often mimic mathematics to seem more serious, but hackers should try to be more like artists instead, ignoring the mathematicians.
+
+In corporate, programmers are viewed as technicians translating a PM's vision into code, which separates the design from the implementation (bad). Big companies try to decrease the standard deviation in order to not fail, which opens the door to startups by enabling them to take advantage of new products/spaces by letting the same person design and implement.
+
+There is rarely a market for things creators *want* to build (which makes sense now that I think about it), and the market pays for solving mundane problems. So, hackers should get a day job to make money and make open-source projects in their spare time. They should also study how to style code well by reading existing open-source code.
